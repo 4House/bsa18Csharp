@@ -1,0 +1,6 @@
+C:\Users\Sergey\source\repos\Parking\Parking\bin\Release\Parking.exe.config
+C:\Users\Sergey\source\repos\Parking\Parking\bin\Release\Parking.exe
+C:\Users\Sergey\source\repos\Parking\Parking\bin\Release\Parking.pdb
+C:\Users\Sergey\source\repos\Parking\Parking\obj\Release\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Parking\Parking\obj\Release\Parking.exe
+C:\Users\Sergey\source\repos\Parking\Parking\obj\Release\Parking.pdb
